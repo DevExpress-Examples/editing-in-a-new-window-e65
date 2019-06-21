@@ -9,6 +9,9 @@
 * [EditForm.aspx.cs](./CS/WebSite/EditForm.aspx.cs) (VB: [EditForm.aspx.vb](./VB/WebSite/EditForm.aspx.vb))
 <!-- default file list end -->
 # Editing in a new window
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e65/)**
+<!-- run online end -->
 
 
 <p>This demo shows how to edit a record in a new window (in a separate aspx page). <br /><br /></p>
